@@ -1,3 +1,3 @@
 # learning_net
 
-this is a simple test
+this is an update on lesson01_helloWolrd
